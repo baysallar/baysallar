@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baysallar
 - 👀 I’m interested in Data Science, Machine Learning, Data Analysis
-- 🌱 I’m currently learning XENETA :)
+- 🌱 I’m currently learning XENETAing :)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me arda.baysallar@xeneta.com
 
